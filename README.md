@@ -5,8 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Juan+David;Solidity+Developer;Freelancer;Web3+Builder" />
 </div>
 <div align="center">
-    <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
-    <a href="https://www.upwork.com/freelancers/~0161140fda6fc43cb9"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" /></a>
+    <a href="https://www.linkedin.com/in/juan-david-polanco-rojas-6a06aa12a/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
+    <a href="https://www.upwork.com/freelancers/~013f7d21d85dcc5487"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" /></a>
 </div>
 <br>
 
